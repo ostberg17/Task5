@@ -7,7 +7,7 @@ import java.util.List;
 public class CreateTeams {
 
     public static List<Team> makeAllTeams(){
-        String[] teams = {"firstTeam","secondTeam","thirdTeam","forthTeam","fifthTeam","sixthTeam","seventhTeam","eighthTeam"};
+        String[] teams = {"FirstTeam","secondTeam","thirdTeam","forthTeam","fifthTeam","sixthTeam","seventhTeam","eighthTeam"};
         String[] capitans = {"JonhCap","SamCAp","BobCap","willCap","JonhCap","SamCAp","BobCap","willCap"};
         String[] coach = {"OneBoss","TwoBoss","ThreeBoss","FourBoss","5Boss","6Boss","7Boss","8Boss"};
         ArrayList<Team> allTeams = new ArrayList<>();
